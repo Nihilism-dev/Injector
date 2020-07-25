@@ -2,3 +2,4 @@ V 1.0 : Bypassing the new vac update
 V 2.0 : New design, more games supported, bug fixes
 V 2.1 : Bug fixes, Auto Update
 V 2.2 : Bug fixes, Auto Update Fix, Process List for Other Games
+V 2.3 : AutoUpdate Final Fix
