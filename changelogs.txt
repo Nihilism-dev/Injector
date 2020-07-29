@@ -3,5 +3,5 @@ V 2.0 : New design, more games supported, bug fixes
 V 2.1 : Bug fixes, Auto Update
 V 2.2 : Bug fixes, Auto Update Fix, Process List added for Other Games
 V 2.3 : AutoUpdate Final Fix
-V 2.4 : Bug fixes, Discord server added
+V 2.4 : Bug fixes, Inject and Exit Added, Discord server added
 V 3.0 : Spoofer Added
