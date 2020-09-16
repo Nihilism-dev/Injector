@@ -6,3 +6,4 @@ V 2.3 : AutoUpdate Final Fix
 V 2.4 : Bug fixes, Inject and Exit Added, Discord server added
 V 3.0 : Spoofer Added
 V 3.1 : Bug Fixes, Added Possibility to inject Multiple DLL (Misc), Fix Injector Button (Misc)
+V 3.2 : Bug Fixes, Added Recent DLL 
